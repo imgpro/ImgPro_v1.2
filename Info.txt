@@ -1,0 +1,23 @@
+Сейчас 2016 год, и я решил залить свои старые исходники на github.
+Я писал ImgPro в далёком 2007 году, тогда я учился в 11м классе школы, не знал ООП, писал не очевидный код,
+например вместо if(n != -1){...} писал if(~n){...} (мне казалось что так будет работать быстрее).
+
+
+Программа оказалась довольно-таки популярной, количество скачиваний перевалило за 200 тысяч.
+http://libertycity.ru/files/gta-san-andreas/14775-img-pro-v1.2.html
+http://gta.com.ua/file_sa_details.phtml?id=615
+http://ingta.ru/load/gta_san_andreas/program/img_pro_1_2/7-1-0-657
+http://www.gtamir.ru/files/3526_img-pro-.html
+
+
+А на ютубе даже появились ролики показывающие как пользоваться программой.
+https://www.youtube.com/watch?v=R-ObMBeJnjQ
+https://www.youtube.com/watch?v=2bVDSN_zQFs
+
+
+// Img Pro v1.2
+// Coded by LOD (Usov Alexey)
+// mail: imgpro@rambler.ru
+// http://vkontakte.ru/id58933402
+// http://vkontakte.ru/public24609835
+// https://github.com/imgpro
